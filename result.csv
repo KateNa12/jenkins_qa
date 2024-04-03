@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712174138945,102,Get all characters,200,OK,HTTP managers 1-7,text,true,,357,154,32,32,http://localhost:3001/characters,88,0,52
+1712174138975,73,Get all characters,200,OK,HTTP managers 1-25,text,true,,357,154,32,32,http://localhost:3001/characters,59,0,23
+1712174138948,103,Get all characters,200,OK,HTTP managers 1-20,text,true,,357,154,32,32,http://localhost:3001/characters,103,0,51
+1712174138946,106,Get all characters,200,OK,HTTP managers 1-16,text,true,,357,154,32,32,http://localhost:3001/characters,105,0,53
+1712174138947,104,Get all characters,200,OK,HTTP managers 1-1,text,true,,357,154,32,32,http://localhost:3001/characters,104,0,52
+1712174138947,100,Get all characters,200,OK,HTTP managers 1-9,text,true,,357,154,32,32,http://localhost:3001/characters,86,0,50
+1712174138994,54,Get all characters,200,OK,HTTP managers 1-27,text,true,,357,154,32,32,http://localhost:3001/characters,40,0,4
+1712174138947,100,Get all characters,200,OK,HTTP managers 1-12,text,true,,357,154,32,32,http://localhost:3001/characters,89,0,50
+1712174138945,102,Get all characters,200,OK,HTTP managers 1-8,text,true,,357,154,32,32,http://localhost:3001/characters,91,0,53
+1712174138947,100,Get all characters,200,OK,HTTP managers 1-2,text,true,,357,154,32,32,http://localhost:3001/characters,86,0,51
+1712174138946,102,Get all characters,200,OK,HTTP managers 1-18,text,true,,357,154,32,32,http://localhost:3001/characters,87,0,53
+1712174138946,102,Get all characters,200,OK,HTTP managers 1-13,text,true,,357,154,32,32,http://localhost:3001/characters,88,0,53
+1712174138948,100,Get all characters,200,OK,HTTP managers 1-21,text,true,,357,154,32,32,http://localhost:3001/characters,86,0,51
+1712174138947,100,Get all characters,200,OK,HTTP managers 1-10,text,true,,357,154,32,32,http://localhost:3001/characters,85,0,50
+1712174138947,100,Get all characters,200,OK,HTTP managers 1-6,text,true,,357,154,32,32,http://localhost:3001/characters,85,0,50
+1712174138948,100,Get all characters,200,OK,HTTP managers 1-17,text,true,,357,154,32,32,http://localhost:3001/characters,85,0,50
+1712174138948,100,Get all characters,200,OK,HTTP managers 1-14,text,true,,357,154,32,32,http://localhost:3001/characters,85,0,50
+1712174138947,100,Get all characters,200,OK,HTTP managers 1-5,text,true,,357,154,32,32,http://localhost:3001/characters,85,0,50
+1712174138946,102,Get all characters,200,OK,HTTP managers 1-15,text,true,,357,154,32,32,http://localhost:3001/characters,102,0,53
+1712174138946,112,Get all characters,200,OK,HTTP managers 1-19,text,true,,357,154,32,32,http://localhost:3001/characters,112,0,54
+1712174138945,112,Get all characters,200,OK,HTTP managers 1-11,text,true,,357,154,32,32,http://localhost:3001/characters,111,0,54
+1712174138984,75,Get all characters,200,OK,HTTP managers 1-26,text,true,,357,154,32,32,http://localhost:3001/characters,75,0,15
+1712174138948,111,Get all characters,200,OK,HTTP managers 1-22,text,true,,357,154,32,32,http://localhost:3001/characters,111,0,52
+1712174138954,106,Get all characters,200,OK,HTTP managers 1-23,text,true,,357,154,32,32,http://localhost:3001/characters,106,0,46
+1712174138947,116,Get all characters,200,OK,HTTP managers 1-3,text,true,,357,154,34,34,http://localhost:3001/characters,116,0,52
+1712174139056,11,Get character id,200,OK,HTTP managers 1-12,text,true,,192,156,34,34,http://localhost:3001/character/id,11,0,0
+1712174139057,10,Get character id,200,OK,HTTP managers 1-2,text,true,,192,156,34,34,http://localhost:3001/character/id,10,0,0
+1712174139055,14,Get character id,200,OK,HTTP managers 1-7,text,true,,192,156,34,34,http://localhost:3001/character/id,14,0,0
+1712174139055,16,Get character id,200,OK,HTTP managers 1-6,text,true,,192,156,34,34,http://localhost:3001/character/id,16,0,0
+1712174139055,17,Get character id,200,OK,HTTP managers 1-25,text,true,,192,156,34,34,http://localhost:3001/character/id,17,0,0
+1712174139056,16,Get character id,200,OK,HTTP managers 1-1,text,true,,192,156,34,34,http://localhost:3001/character/id,16,0,0
+1712174139056,16,Get character id,200,OK,HTTP managers 1-9,text,true,,192,156,34,34,http://localhost:3001/character/id,16,0,0
+1712174139057,17,Get character id,200,OK,HTTP managers 1-13,text,true,,192,156,34,34,http://localhost:3001/character/id,17,0,0
+1712174139056,18,Get character id,200,OK,HTTP managers 1-8,text,true,,192,156,34,34,http://localhost:3001/character/id,18,0,0
+1712174139055,19,Get character id,200,OK,HTTP managers 1-27,text,true,,192,156,34,34,http://localhost:3001/character/id,19,0,0
+1712174139055,23,Get character id,200,OK,HTTP managers 1-16,text,true,,192,156,34,34,http://localhost:3001/character/id,23,0,0
+1712174139059,19,Get character id,200,OK,HTTP managers 1-15,text,true,,192,156,35,35,http://localhost:3001/character/id,19,0,0
+1712174139059,22,Get character id,200,OK,HTTP managers 1-5,text,true,,192,156,35,35,http://localhost:3001/character/id,22,0,0
+1712174139060,21,Get character id,200,OK,HTTP managers 1-22,text,true,,192,156,35,35,http://localhost:3001/character/id,21,0,0
+1712174139058,23,Get character id,200,OK,HTTP managers 1-11,text,true,,192,156,35,35,http://localhost:3001/character/id,23,0,0
+1712174139058,27,Get character id,200,OK,HTTP managers 1-21,text,true,,192,156,36,36,http://localhost:3001/character/id,27,0,0
+1712174139059,29,Get character id,200,OK,HTTP managers 1-20,text,true,,192,156,36,36,http://localhost:3001/character/id,29,0,0
+1712174139060,28,Get character id,200,OK,HTTP managers 1-26,text,true,,192,156,36,36,http://localhost:3001/character/id,28,0,0
+1712174139057,31,Get character id,200,OK,HTTP managers 1-18,text,true,,192,156,36,36,http://localhost:3001/character/id,31,0,0
+1712174139058,32,Get character id,200,OK,HTTP managers 1-19,text,true,,192,156,36,36,http://localhost:3001/character/id,32,0,0
+1712174139060,30,Get character id,200,OK,HTTP managers 1-23,text,true,,192,156,36,36,http://localhost:3001/character/id,30,0,0
+1712174139058,32,Get character id,200,OK,HTTP managers 1-17,text,true,,192,156,36,36,http://localhost:3001/character/id,32,0,0
+1712174139057,34,Get character id,200,OK,HTTP managers 1-14,text,true,,192,156,36,36,http://localhost:3001/character/id,34,0,0
+1712174138947,144,Get all characters,200,OK,HTTP managers 1-4,text,true,,357,154,36,36,http://localhost:3001/characters,144,0,52
+1712174139060,33,Get character id,200,OK,HTTP managers 1-10,text,true,,192,156,36,36,http://localhost:3001/character/id,33,0,0
+1712174139068,26,Create user,200,OK,HTTP managers 1-2,text,true,,264,217,36,36,http://localhost:3001/character,26,0,0
+1712174139075,23,Create user,200,OK,HTTP managers 1-9,text,true,,264,217,37,37,http://localhost:3001/character,22,0,0
+1712174139068,29,Create user,200,OK,HTTP managers 1-12,text,true,,264,217,37,37,http://localhost:3001/character,29,0,0
+1712174139071,27,Create user,200,OK,HTTP managers 1-7,text,true,,264,217,37,37,http://localhost:3001/character,26,0,0
+1712174139072,30,Create user,200,OK,HTTP managers 1-1,text,true,,264,217,38,38,http://localhost:3001/character,30,0,0
+1712174139075,34,Create user,200,OK,HTTP managers 1-27,text,true,,264,217,38,38,http://localhost:3001/character,34,0,0
+1712174139074,36,Create user,200,OK,HTTP managers 1-13,text,true,,264,217,38,38,http://localhost:3001/character,36,0,0
+1712174139079,33,Create user,200,OK,HTTP managers 1-16,text,true,,264,217,38,38,http://localhost:3001/character,33,0,0
+1712174139065,47,Get character id,200,OK,HTTP managers 1-3,text,true,,192,156,38,38,http://localhost:3001/character/id,47,0,0
+1712174138965,150,Get all characters,200,OK,HTTP managers 1-24,text,true,,598,154,39,39,http://localhost:3001/characters,150,0,36
+1712174139095,21,Change user,200,OK,HTTP managers 1-2,text,true,,264,216,39,39,http://localhost:3001/character/1,21,0,0
+1712174139098,21,Change user,200,OK,HTTP managers 1-12,text,true,,264,216,39,39,http://localhost:3001/character/1,21,0,0
+1712174139098,22,Change user,200,OK,HTTP managers 1-7,text,true,,264,216,39,39,http://localhost:3001/character/1,22,0,0
+1712174139098,24,Change user,200,OK,HTTP managers 1-9,text,true,,264,216,39,39,http://localhost:3001/character/1,24,0,0
+1712174139103,21,Change user,200,OK,HTTP managers 1-1,text,true,,264,216,40,40,http://localhost:3001/character/1,21,0,0
+1712174139110,15,Change user,200,OK,HTTP managers 1-27,text,true,,264,216,40,40,http://localhost:3001/character/1,15,0,0
+1712174139110,16,Change user,200,OK,HTTP managers 1-13,text,true,,264,216,40,40,http://localhost:3001/character/1,16,0,0
+1712174139072,56,Create user,200,OK,HTTP managers 1-6,text,true,,264,217,40,40,http://localhost:3001/character,56,0,0
+1712174139079,50,Create user,200,OK,HTTP managers 1-15,text,true,,264,217,40,40,http://localhost:3001/character,50,0,0
+1712174139072,58,Create user,200,OK,HTTP managers 1-25,text,true,,264,217,40,40,http://localhost:3001/character,58,0,0
+1712174139082,49,Create user,200,OK,HTTP managers 1-22,text,true,,264,217,40,40,http://localhost:3001/character,49,0,0
+1712174139082,50,Create user,200,OK,HTTP managers 1-5,text,true,,264,217,40,40,http://localhost:3001/character,50,0,0
+1712174139086,48,Create user,200,OK,HTTP managers 1-21,text,true,,264,217,41,41,http://localhost:3001/character,47,0,0
+1712174139075,60,Create user,200,OK,HTTP managers 1-8,text,true,,264,217,41,41,http://localhost:3001/character,60,0,0
+1712174139088,48,Create user,200,OK,HTTP managers 1-20,text,true,,264,217,41,41,http://localhost:3001/character,48,0,0
+1712174139093,47,Get character id,200,OK,HTTP managers 1-4,text,true,,192,156,41,41,http://localhost:3001/character/id,47,0,0
+1712174139082,58,Create user,200,OK,HTTP managers 1-11,text,true,,264,217,41,41,http://localhost:3001/character,58,0,0
+1712174139091,51,Create user,200,OK,HTTP managers 1-19,text,true,,264,217,41,41,http://localhost:3001/character,51,0,0
+1712174139092,53,Create user,200,OK,HTTP managers 1-17,text,true,,264,217,42,42,http://localhost:3001/character,53,0,0
+1712174139092,56,Create user,200,OK,HTTP managers 1-14,text,true,,264,217,42,42,http://localhost:3001/character,56,0,0
+1712174139091,60,Create user,200,OK,HTTP managers 1-23,text,true,,264,217,42,42,http://localhost:3001/character,60,0,0
+1712174139094,57,Create user,200,OK,HTTP managers 1-10,text,true,,264,217,42,42,http://localhost:3001/character,57,0,0
+1712174139088,66,Create user,200,OK,HTTP managers 1-18,text,true,,264,217,43,43,http://localhost:3001/character,66,0,0
+1712174139088,68,Create user,200,OK,HTTP managers 1-26,text,true,,264,217,43,43,http://localhost:3001/character,68,0,0
+1712174139015,142,Get all characters,200,OK,HTTP managers 1-28,text,true,,1078,154,43,43,http://localhost:3001/characters,142,0,3
+1712174139117,42,Delete user,200,OK,HTTP managers 1-2,text,true,,249,178,43,43,http://localhost:3001/character/id,42,0,0
+1712174139119,42,Delete user,200,OK,HTTP managers 1-12,text,true,,249,178,43,43,http://localhost:3001/character/id,41,0,0
+1712174139120,42,Delete user,200,OK,HTTP managers 1-7,text,true,,249,178,41,41,http://localhost:3001/character/id,42,0,0
+1712174139122,42,Delete user,200,OK,HTTP managers 1-9,text,true,,249,178,41,41,http://localhost:3001/character/id,42,0,0
+1712174139124,42,Delete user,200,OK,HTTP managers 1-1,text,true,,249,178,40,40,http://localhost:3001/character/id,42,0,0
+1712174139126,42,Delete user,200,OK,HTTP managers 1-27,text,true,,249,178,39,39,http://localhost:3001/character/id,42,0,0
+1712174139127,42,Delete user,200,OK,HTTP managers 1-13,text,true,,249,178,38,38,http://localhost:3001/character/id,42,0,0
+1712174139129,42,Change user,200,OK,HTTP managers 1-6,text,true,,264,216,37,37,http://localhost:3001/character/1,42,0,0
+1712174139130,43,Change user,200,OK,HTTP managers 1-15,text,true,,264,216,38,38,http://localhost:3001/character/1,43,0,0
+1712174139131,43,Change user,200,OK,HTTP managers 1-25,text,true,,264,216,38,38,http://localhost:3001/character/1,43,0,0
+1712174139132,44,Change user,200,OK,HTTP managers 1-22,text,true,,264,216,38,38,http://localhost:3001/character/1,44,0,0
+1712174139133,44,Change user,200,OK,HTTP managers 1-5,text,true,,264,216,38,38,http://localhost:3001/character/1,44,0,0
+1712174139134,44,Change user,200,OK,HTTP managers 1-21,text,true,,264,216,38,38,http://localhost:3001/character/1,44,0,0
+1712174139135,45,Change user,200,OK,HTTP managers 1-8,text,true,,264,216,38,38,http://localhost:3001/character/1,45,0,0
+1712174139137,44,Change user,200,OK,HTTP managers 1-20,text,true,,264,216,38,38,http://localhost:3001/character/1,44,0,0
+1712174139140,42,Change user,200,OK,HTTP managers 1-11,text,true,,264,216,38,38,http://localhost:3001/character/1,42,0,0
+1712174139140,43,Create user,200,OK,HTTP managers 1-4,text,true,,264,217,39,39,http://localhost:3001/character,43,0,0
+1712174139142,43,Change user,200,OK,HTTP managers 1-19,text,true,,264,216,39,39,http://localhost:3001/character/1,43,0,0
+1712174139146,42,Change user,200,OK,HTTP managers 1-17,text,true,,264,216,39,39,http://localhost:3001/character/1,42,0,0
+1712174139148,41,Change user,200,OK,HTTP managers 1-14,text,true,,264,216,39,39,http://localhost:3001/character/1,41,0,0
+1712174139152,38,Change user,200,OK,HTTP managers 1-23,text,true,,264,216,39,39,http://localhost:3001/character/1,38,0,0
+1712174139152,40,Change user,200,OK,HTTP managers 1-10,text,true,,264,216,39,39,http://localhost:3001/character/1,40,0,0
+1712174139113,80,Create user,200,OK,HTTP managers 1-3,text,true,,264,217,40,40,http://localhost:3001/character,80,0,0
+1712174139113,82,Change user,200,OK,HTTP managers 1-16,text,true,,264,216,40,40,http://localhost:3001/character/1,82,0,0
+1712174139115,81,Get character id,200,OK,HTTP managers 1-24,text,true,,192,156,40,40,http://localhost:3001/character/id,81,0,0
+1712174139021,177,Get all characters,200,OK,HTTP managers 1-29,text,true,,928,154,40,40,http://localhost:3001/characters,177,0,10
+1712174139172,27,Delete user,200,OK,HTTP managers 1-6,text,true,,249,178,40,40,http://localhost:3001/character/id,27,0,0
+1712174139173,28,Delete user,200,OK,HTTP managers 1-15,text,true,,249,178,39,39,http://localhost:3001/character/id,28,0,0
+1712174139175,28,Delete user,200,OK,HTTP managers 1-25,text,true,,249,178,39,39,http://localhost:3001/character/id,28,0,0
+1712174139176,33,Delete user,200,OK,HTTP managers 1-22,text,true,,249,178,38,38,http://localhost:3001/character/id,32,0,0
+1712174139177,32,Delete user,200,OK,HTTP managers 1-5,text,true,,249,178,38,38,http://localhost:3001/character/id,32,0,0
+1712174139179,32,Delete user,200,OK,HTTP managers 1-21,text,true,,249,178,36,36,http://localhost:3001/character/id,32,0,0
+1712174139180,32,Delete user,200,OK,HTTP managers 1-8,text,true,,249,178,37,37,http://localhost:3001/character/id,32,0,0
+1712174139182,32,Delete user,200,OK,HTTP managers 1-20,text,true,,249,178,35,35,http://localhost:3001/character/id,32,0,0
+1712174139183,36,Delete user,200,OK,HTTP managers 1-11,text,true,,249,178,34,34,http://localhost:3001/character/id,36,0,0
+1712174139184,36,Change user,200,OK,HTTP managers 1-4,text,true,,264,216,33,33,http://localhost:3001/character/1,36,0,0
+1712174139186,38,Delete user,200,OK,HTTP managers 1-19,text,true,,249,178,34,34,http://localhost:3001/character/id,38,0,0
+1712174139188,37,Delete user,200,OK,HTTP managers 1-17,text,true,,249,178,33,33,http://localhost:3001/character/id,37,0,0
+1712174139190,37,Delete user,200,OK,HTTP managers 1-14,text,true,,249,178,32,32,http://localhost:3001/character/id,37,0,0
+1712174139192,36,Delete user,200,OK,HTTP managers 1-23,text,true,,249,178,32,32,http://localhost:3001/character/id,36,0,0
+1712174139155,75,Change user,200,OK,HTTP managers 1-18,text,true,,264,216,30,30,http://localhost:3001/character/1,75,0,0
+1712174139157,74,Change user,200,OK,HTTP managers 1-26,text,true,,264,216,30,30,http://localhost:3001/character/1,74,0,0
+1712174139158,75,Get character id,200,OK,HTTP managers 1-28,text,true,,192,156,31,31,http://localhost:3001/character/id,75,0,0
+1712174139032,206,Get all characters,200,OK,HTTP managers 1-30,text,true,,538,154,31,31,http://localhost:3001/characters,206,0,3
+1712174139221,21,Delete user,200,OK,HTTP managers 1-4,text,true,,249,178,32,32,http://localhost:3001/character/id,21,0,0
+1712174139230,13,Delete user,200,OK,HTTP managers 1-18,text,true,,249,178,32,32,http://localhost:3001/character/id,13,0,0
+1712174139232,13,Delete user,200,OK,HTTP managers 1-26,text,true,,249,178,31,31,http://localhost:3001/character/id,13,0,0
+1712174139234,12,Create user,200,OK,HTTP managers 1-28,text,true,,264,217,29,29,http://localhost:3001/character,12,0,0
+1712174139239,8,Get character id,200,OK,HTTP managers 1-30,text,true,,192,156,29,29,http://localhost:3001/character/id,8,0,0
+1712174139194,55,Change user,200,OK,HTTP managers 1-3,text,true,,264,216,29,29,http://localhost:3001/character/1,55,0,0
+1712174139193,58,Delete user,200,OK,HTTP managers 1-10,text,true,,249,178,29,29,http://localhost:3001/character/id,58,0,0
+1712174139196,56,Delete user,200,OK,HTTP managers 1-16,text,true,,249,178,28,28,http://localhost:3001/character/id,56,0,0
+1712174139196,58,Create user,200,OK,HTTP managers 1-24,text,true,,264,217,28,28,http://localhost:3001/character,58,0,0
+1712174139198,57,Get character id,200,OK,HTTP managers 1-29,text,true,,192,156,28,28,http://localhost:3001/character/id,57,0,0
+1712174139034,226,Get all characters,200,OK,HTTP managers 1-31,text,true,,447,154,28,28,http://localhost:3001/characters,225,0,4
+1712174139247,16,Change user,200,OK,HTTP managers 1-28,text,true,,264,216,28,28,http://localhost:3001/character/1,16,0,0
+1712174139248,16,Create user,200,OK,HTTP managers 1-30,text,true,,264,217,29,29,http://localhost:3001/character,16,0,0
+1712174139250,16,Delete user,200,OK,HTTP managers 1-3,text,true,,249,178,29,29,http://localhost:3001/character/id,16,0,0
+1712174139254,16,Change user,200,OK,HTTP managers 1-24,text,true,,264,216,28,28,http://localhost:3001/character/1,16,0,0
+1712174139255,16,Create user,200,OK,HTTP managers 1-29,text,true,,264,217,28,28,http://localhost:3001/character,15,0,0
+1712174139052,219,Get all characters,200,OK,HTTP managers 1-32,text,true,,477,154,28,28,http://localhost:3001/characters,219,0,2
+1712174139264,10,Delete user,200,OK,HTTP managers 1-28,text,true,,249,178,28,28,http://localhost:3001/character/id,10,0,0
+1712174139265,10,Change user,200,OK,HTTP managers 1-30,text,true,,264,216,29,29,http://localhost:3001/character/1,10,0,0
+1712174139270,8,Delete user,200,OK,HTTP managers 1-24,text,true,,249,178,28,28,http://localhost:3001/character/id,7,0,0
+1712174139271,10,Change user,200,OK,HTTP managers 1-29,text,true,,264,216,27,27,http://localhost:3001/character/1,10,0,0
+1712174139272,10,Get character id,200,OK,HTTP managers 1-32,text,true,,192,156,27,27,http://localhost:3001/character/id,10,0,0
+1712174139262,20,Get character id,200,OK,HTTP managers 1-31,text,true,,192,156,27,27,http://localhost:3001/character/id,20,0,0
+1712174139063,223,Get all characters,200,OK,HTTP managers 1-33,text,true,,417,154,28,28,http://localhost:3001/characters,222,0,2
+1712174139276,10,Delete user,200,OK,HTTP managers 1-30,text,true,,249,178,28,28,http://localhost:3001/character/id,10,0,0
+1712174139070,218,Get all characters,200,OK,HTTP managers 1-34,text,true,,387,154,27,27,http://localhost:3001/characters,218,0,5
+1712174139289,3,Get character id,200,OK,HTTP managers 1-34,text,true,,192,156,28,28,http://localhost:3001/character/id,3,0,0
+1712174139282,11,Create user,200,OK,HTTP managers 1-32,text,true,,264,217,28,28,http://localhost:3001/character,11,0,0
+1712174139284,11,Create user,200,OK,HTTP managers 1-31,text,true,,264,217,28,28,http://localhost:3001/character,11,0,0
+1712174139281,16,Delete user,200,OK,HTTP managers 1-29,text,true,,249,178,28,28,http://localhost:3001/character/id,15,0,0
+1712174139286,11,Get character id,200,OK,HTTP managers 1-33,text,true,,192,156,28,28,http://localhost:3001/character/id,11,0,0
+1712174139079,221,Get all characters,200,OK,HTTP managers 1-35,text,true,,417,154,27,27,http://localhost:3001/characters,221,0,2
+1712174139292,9,Create user,200,OK,HTTP managers 1-34,text,true,,264,217,27,27,http://localhost:3001/character,9,0,0
+1712174139293,10,Change user,200,OK,HTTP managers 1-32,text,true,,264,216,28,28,http://localhost:3001/character/1,10,0,0
+1712174139296,10,Change user,200,OK,HTTP managers 1-31,text,true,,264,216,28,28,http://localhost:3001/character/1,10,0,0
+1712174139083,224,Get all characters,200,OK,HTTP managers 1-36,text,true,,447,154,28,28,http://localhost:3001/characters,224,0,2
+1712174139302,9,Change user,200,OK,HTTP managers 1-34,text,true,,264,216,28,28,http://localhost:3001/character/1,9,0,0
+1712174139304,9,Delete user,200,OK,HTTP managers 1-32,text,true,,249,178,29,29,http://localhost:3001/character/id,9,0,0
+1712174139298,16,Create user,200,OK,HTTP managers 1-33,text,true,,264,217,28,28,http://localhost:3001/character,16,0,0
+1712174139300,17,Get character id,200,OK,HTTP managers 1-35,text,true,,192,156,28,28,http://localhost:3001/character/id,17,0,0
+1712174139100,221,Get all characters,200,OK,HTTP managers 1-37,text,true,,447,154,28,28,http://localhost:3001/characters,221,0,1
+1712174139311,10,Delete user,200,OK,HTTP managers 1-34,text,true,,249,178,28,28,http://localhost:3001/character/id,10,0,0
+1712174139315,9,Change user,200,OK,HTTP managers 1-33,text,true,,264,216,27,27,http://localhost:3001/character/1,9,0,0
+1712174139306,18,Delete user,200,OK,HTTP managers 1-31,text,true,,249,178,27,27,http://localhost:3001/character/id,18,0,0
+1712174139308,20,Get character id,200,OK,HTTP managers 1-36,text,true,,192,156,27,27,http://localhost:3001/character/id,20,0,0
+1712174139103,228,Get all characters,200,OK,HTTP managers 1-38,text,true,,387,154,27,27,http://localhost:3001/characters,228,0,1
+1712174139325,9,Delete user,200,OK,HTTP managers 1-33,text,true,,249,178,28,28,http://localhost:3001/character/id,9,0,0
+1712174139328,8,Create user,200,OK,HTTP managers 1-36,text,true,,264,217,27,27,http://localhost:3001/character,7,0,0
+1712174139318,19,Create user,200,OK,HTTP managers 1-35,text,true,,264,217,27,27,http://localhost:3001/character,19,0,0
+1712174139114,225,Get all characters,200,OK,HTTP managers 1-39,text,true,,417,154,27,27,http://localhost:3001/characters,225,0,2
+1712174139322,17,Get character id,200,OK,HTTP managers 1-37,text,true,,192,156,27,27,http://localhost:3001/character/id,17,0,0
+1712174139332,12,Get character id,200,OK,HTTP managers 1-38,text,true,,192,156,28,28,http://localhost:3001/character/id,12,0,0
+1712174139123,222,Get all characters,200,OK,HTTP managers 1-40,text,true,,417,154,28,28,http://localhost:3001/characters,222,0,1
+1712174139337,14,Change user,200,OK,HTTP managers 1-36,text,true,,264,216,28,28,http://localhost:3001/character/1,14,0,0
+1712174139337,15,Change user,200,OK,HTTP managers 1-35,text,true,,264,216,28,28,http://localhost:3001/character/1,15,0,0
+1712174139340,14,Create user,200,OK,HTTP managers 1-37,text,true,,264,217,29,29,http://localhost:3001/character,14,0,0
+1712174139340,14,Get character id,200,OK,HTTP managers 1-39,text,true,,192,156,29,29,http://localhost:3001/character/id,14,0,0
+1712174139135,222,Get all characters,200,OK,HTTP managers 1-41,text,true,,447,154,29,29,http://localhost:3001/characters,222,0,2
+1712174139352,8,Delete user,200,OK,HTTP managers 1-36,text,true,,249,178,29,29,http://localhost:3001/character/id,8,0,0
+1712174139345,15,Create user,200,OK,HTTP managers 1-38,text,true,,264,217,29,29,http://localhost:3001/character,15,0,0
+1712174139143,217,Get all characters,200,OK,HTTP managers 1-42,text,true,,447,154,29,29,http://localhost:3001/characters,217,0,2
+1712174139346,14,Get character id,200,OK,HTTP managers 1-40,text,true,,192,156,29,29,http://localhost:3001/character/id,14,0,0
+1712174139361,4,Change user,200,OK,HTTP managers 1-38,text,true,,264,216,29,29,http://localhost:3001/character/1,4,0,0
+1712174139361,5,Create user,200,OK,HTTP managers 1-40,text,true,,264,217,29,29,http://localhost:3001/character,5,0,0
+1712174139361,7,Get character id,200,OK,HTTP managers 1-42,text,true,,192,156,29,29,http://localhost:3001/character/id,7,0,0
+1712174139353,17,Delete user,200,OK,HTTP managers 1-35,text,true,,249,178,29,29,http://localhost:3001/character/id,17,0,0
+1712174139355,17,Create user,200,OK,HTTP managers 1-39,text,true,,264,217,28,28,http://localhost:3001/character,16,0,0
+1712174139355,18,Change user,200,OK,HTTP managers 1-37,text,true,,264,216,28,28,http://localhost:3001/character/1,18,0,0
+1712174139358,16,Get character id,200,OK,HTTP managers 1-41,text,true,,192,156,28,28,http://localhost:3001/character/id,16,0,0
+1712174139154,223,Get all characters,200,OK,HTTP managers 1-43,text,true,,477,154,29,29,http://localhost:3001/characters,222,0,2
+1712174139366,14,Delete user,200,OK,HTTP managers 1-38,text,true,,249,178,29,29,http://localhost:3001/character/id,14,0,0
+1712174139367,14,Change user,200,OK,HTTP managers 1-40,text,true,,264,216,28,28,http://localhost:3001/character/1,14,0,0
+1712174139369,14,Create user,200,OK,HTTP managers 1-42,text,true,,264,217,28,28,http://localhost:3001/character,14,0,0
+1712174139373,11,Change user,200,OK,HTTP managers 1-39,text,true,,264,216,28,28,http://localhost:3001/character/1,11,0,0
+1712174139164,223,Get all characters,200,OK,HTTP managers 1-44,text,true,,477,154,29,29,http://localhost:3001/characters,223,0,1
+1712174139382,7,Delete user,200,OK,HTTP managers 1-40,text,true,,249,178,29,29,http://localhost:3001/character/id,7,0,0
+1712174139374,16,Create user,200,OK,HTTP managers 1-41,text,true,,264,217,28,28,http://localhost:3001/character,16,0,0
+1712174139374,17,Delete user,200,OK,HTTP managers 1-37,text,true,,249,178,28,28,http://localhost:3001/character/id,17,0,0
+1712174139377,15,Get character id,200,OK,HTTP managers 1-43,text,true,,192,156,28,28,http://localhost:3001/character/id,15,0,0
+1712174139173,221,Get all characters,200,OK,HTTP managers 1-45,text,true,,447,154,27,27,http://localhost:3001/characters,221,0,1
+1712174139391,4,Change user,200,OK,HTTP managers 1-41,text,true,,264,216,27,27,http://localhost:3001/character/1,4,0,0
+1712174139384,13,Delete user,200,OK,HTTP managers 1-39,text,true,,249,178,28,28,http://localhost:3001/character/id,12,0,0
+1712174139383,15,Change user,200,OK,HTTP managers 1-42,text,true,,264,216,27,27,http://localhost:3001/character/1,15,0,0
+1712174139388,12,Get character id,200,OK,HTTP managers 1-44,text,true,,192,156,27,27,http://localhost:3001/character/id,12,0,0
+1712174139184,217,Get all characters,200,OK,HTTP managers 1-46,text,true,,417,154,27,27,http://localhost:3001/characters,217,0,1
+1712174139395,9,Delete user,200,OK,HTTP managers 1-41,text,true,,249,178,28,28,http://localhost:3001/character/id,9,0,0
+1712174139399,6,Delete user,200,OK,HTTP managers 1-42,text,true,,249,178,27,27,http://localhost:3001/character/id,6,0,0
+1712174139393,14,Create user,200,OK,HTTP managers 1-43,text,true,,264,217,26,26,http://localhost:3001/character,14,0,0
+1712174139394,16,Get character id,200,OK,HTTP managers 1-45,text,true,,192,156,26,26,http://localhost:3001/character/id,16,0,0
+1712174139195,215,Get all characters,200,OK,HTTP managers 1-47,text,true,,387,154,26,26,http://localhost:3001/characters,215,0,2
+1712174139400,12,Create user,200,OK,HTTP managers 1-44,text,true,,264,217,26,26,http://localhost:3001/character,12,0,0
+1712174139402,10,Get character id,200,OK,HTTP managers 1-46,text,true,,192,156,26,26,http://localhost:3001/character/id,10,0,0
+1712174139204,210,Get all characters,200,OK,HTTP managers 1-48,text,true,,417,154,26,26,http://localhost:3001/characters,210,0,2
+1712174139408,7,Change user,200,OK,HTTP managers 1-43,text,true,,264,216,26,26,http://localhost:3001/character/1,7,0,0
+1712174139410,6,Get character id,200,OK,HTTP managers 1-47,text,true,,192,156,26,26,http://localhost:3001/character/id,6,0,0
+1712174139410,8,Create user,200,OK,HTTP managers 1-45,text,true,,264,217,27,27,http://localhost:3001/character,8,0,0
+1712174139214,207,Get all characters,200,OK,HTTP managers 1-49,text,true,,447,154,27,27,http://localhost:3001/characters,206,0,2
+1712174139416,7,Delete user,200,OK,HTTP managers 1-43,text,true,,249,178,27,27,http://localhost:3001/character/id,7,0,0
+1712174139417,8,Create user,200,OK,HTTP managers 1-47,text,true,,264,217,27,27,http://localhost:3001/character,7,0,0
+1712174139412,16,Change user,200,OK,HTTP managers 1-44,text,true,,264,216,27,27,http://localhost:3001/character/1,16,0,0
+1712174139412,19,Create user,200,OK,HTTP managers 1-46,text,true,,264,217,27,27,http://localhost:3001/character,19,0,0
+1712174139415,16,Get character id,200,OK,HTTP managers 1-48,text,true,,192,156,27,27,http://localhost:3001/character/id,16,0,0
+1712174139224,209,Get all characters,200,OK,HTTP managers 1-50,text,true,,477,154,27,27,http://localhost:3001/characters,209,0,1
+1712174139425,9,Change user,200,OK,HTTP managers 1-47,text,true,,264,216,27,27,http://localhost:3001/character/1,9,0,0
+1712174139428,8,Delete user,200,OK,HTTP managers 1-44,text,true,,249,178,28,28,http://localhost:3001/character/id,8,0,0
+1712174139419,19,Change user,200,OK,HTTP managers 1-45,text,true,,264,216,27,27,http://localhost:3001/character/1,19,0,0
+1712174139421,17,Get character id,200,OK,HTTP managers 1-49,text,true,,192,156,27,27,http://localhost:3001/character/id,17,0,0
+1712174139233,208,Get all characters,200,OK,HTTP managers 1-51,text,true,,447,154,27,27,http://localhost:3001/characters,208,0,2
+1712174139435,9,Delete user,200,OK,HTTP managers 1-47,text,true,,249,178,27,27,http://localhost:3001/character/id,9,0,0
+1712174139432,14,Change user,200,OK,HTTP managers 1-46,text,true,,264,216,26,26,http://localhost:3001/character/1,14,0,0
+1712174139432,16,Create user,200,OK,HTTP managers 1-48,text,true,,264,217,26,26,http://localhost:3001/character,16,0,0
+1712174139434,15,Get character id,200,OK,HTTP managers 1-50,text,true,,192,156,26,26,http://localhost:3001/character/id,15,0,0
+1712174139244,209,Get all characters,200,OK,HTTP managers 1-52,text,true,,447,154,27,27,http://localhost:3001/characters,209,0,2
+1712174139447,7,Delete user,200,OK,HTTP managers 1-46,text,true,,249,178,27,27,http://localhost:3001/character/id,7,0,0
+1712174139439,16,Create user,200,OK,HTTP managers 1-49,text,true,,264,217,26,26,http://localhost:3001/character,16,0,0
+1712174139440,20,Delete user,200,OK,HTTP managers 1-45,text,true,,249,178,27,27,http://localhost:3001/character/id,20,0,0
+1712174139442,20,Get character id,200,OK,HTTP managers 1-51,text,true,,192,156,26,26,http://localhost:3001/character/id,20,0,0
+1712174139253,214,Get all characters,200,OK,HTTP managers 1-53,text,true,,417,154,27,27,http://localhost:3001/characters,214,0,1
+1712174139456,13,Change user,200,OK,HTTP managers 1-49,text,true,,264,216,27,27,http://localhost:3001/character/1,13,0,0
+1712174139462,9,Create user,200,OK,HTTP managers 1-51,text,true,,264,217,27,27,http://localhost:3001/character,9,0,0
+1712174139449,23,Change user,200,OK,HTTP managers 1-48,text,true,,264,216,27,27,http://localhost:3001/character/1,23,0,0
+1712174139453,21,Get character id,200,OK,HTTP managers 1-52,text,true,,192,156,28,28,http://localhost:3001/character/id,21,0,0
+1712174139450,25,Create user,200,OK,HTTP managers 1-50,text,true,,264,217,28,28,http://localhost:3001/character,24,0,0
+1712174139265,211,Get all characters,200,OK,HTTP managers 1-54,text,true,,477,154,28,28,http://localhost:3001/characters,210,0,2
+1712174139470,11,Delete user,200,OK,HTTP managers 1-49,text,true,,249,178,28,28,http://localhost:3001/character/id,11,0,0
+1712174139471,11,Change user,200,OK,HTTP managers 1-51,text,true,,264,216,27,27,http://localhost:3001/character/1,11,0,0
+1712174139473,11,Delete user,200,OK,HTTP managers 1-48,text,true,,249,178,27,27,http://localhost:3001/character/id,11,0,0
+1712174139468,19,Get character id,200,OK,HTTP managers 1-53,text,true,,192,156,27,27,http://localhost:3001/character/id,19,0,0
+1712174139280,207,Get all characters,200,OK,HTTP managers 1-55,text,true,,417,154,27,27,http://localhost:3001/characters,207,0,2
+1712174139483,8,Delete user,200,OK,HTTP managers 1-51,text,true,,249,178,27,27,http://localhost:3001/character/id,8,0,0
+1712174139475,18,Change user,200,OK,HTTP managers 1-50,text,true,,264,216,26,26,http://localhost:3001/character/1,17,0,0
+1712174139475,23,Create user,200,OK,HTTP managers 1-52,text,true,,264,217,27,27,http://localhost:3001/character,23,0,0
+1712174139476,23,Get character id,200,OK,HTTP managers 1-54,text,true,,192,156,27,27,http://localhost:3001/character/id,23,0,0
+1712174139286,216,Get all characters,200,OK,HTTP managers 1-56,text,true,,417,154,27,27,http://localhost:3001/characters,215,0,2
+1712174139493,10,Delete user,200,OK,HTTP managers 1-50,text,true,,249,178,27,27,http://localhost:3001/character/id,10,0,0
+1712174139499,6,Change user,200,OK,HTTP managers 1-52,text,true,,264,216,26,26,http://localhost:3001/character/1,6,0,0
+1712174139488,18,Get character id,200,OK,HTTP managers 1-55,text,true,,192,156,26,26,http://localhost:3001/character/id,18,0,0
+1712174139487,21,Create user,200,OK,HTTP managers 1-53,text,true,,264,217,26,26,http://localhost:3001/character,21,0,0
+1712174139293,216,Get all characters,200,OK,HTTP managers 1-57,text,true,,417,154,26,26,http://localhost:3001/characters,216,0,1
+1712174139506,6,Delete user,200,OK,HTTP managers 1-52,text,true,,249,178,26,26,http://localhost:3001/character/id,6,0,0
+1712174139500,13,Create user,200,OK,HTTP managers 1-54,text,true,,264,217,25,25,http://localhost:3001/character,13,0,0
+1712174139502,12,Get character id,200,OK,HTTP managers 1-56,text,true,,192,156,25,25,http://localhost:3001/character/id,12,0,0
+1712174139303,213,Get all characters,200,OK,HTTP managers 1-58,text,true,,417,154,25,25,http://localhost:3001/characters,213,0,1
+1712174139514,5,Change user,200,OK,HTTP managers 1-54,text,true,,264,216,26,26,http://localhost:3001/character/1,5,0,0
+1712174139515,6,Create user,200,OK,HTTP managers 1-56,text,true,,264,217,26,26,http://localhost:3001/character,6,0,0
+1712174139507,16,Create user,200,OK,HTTP managers 1-55,text,true,,264,217,26,26,http://localhost:3001/character,16,0,0
+1712174139510,13,Get character id,200,OK,HTTP managers 1-57,text,true,,192,156,26,26,http://localhost:3001/character/id,13,0,0
+1712174139509,16,Change user,200,OK,HTTP managers 1-53,text,true,,264,216,26,26,http://localhost:3001/character/1,16,0,0
+1712174139314,213,Get all characters,200,OK,HTTP managers 1-59,text,true,,477,154,26,26,http://localhost:3001/characters,213,0,2
+1712174139520,8,Delete user,200,OK,HTTP managers 1-54,text,true,,249,178,26,26,http://localhost:3001/character/id,8,0,0
+1712174139522,9,Change user,200,OK,HTTP managers 1-56,text,true,,264,216,27,27,http://localhost:3001/character/1,9,0,0
+1712174139517,15,Get character id,200,OK,HTTP managers 1-58,text,true,,192,156,27,27,http://localhost:3001/character/id,15,0,0
+1712174139328,204,Get all characters,200,OK,HTTP managers 1-60,text,true,,447,154,27,27,http://localhost:3001/characters,204,0,2
+1712174139524,12,Create user,200,OK,HTTP managers 1-57,text,true,,264,217,27,27,http://localhost:3001/character,12,0,0
+1712174139524,13,Change user,200,OK,HTTP managers 1-55,text,true,,264,216,27,27,http://localhost:3001/character/1,13,0,0
+1712174139526,13,Delete user,200,OK,HTTP managers 1-53,text,true,,249,178,28,28,http://localhost:3001/character/id,13,0,0
+1712174139335,205,Get all characters,200,OK,HTTP managers 1-61,text,true,,447,154,27,27,http://localhost:3001/characters,205,0,3
+1712174139537,5,Change user,200,OK,HTTP managers 1-57,text,true,,264,216,27,27,http://localhost:3001/character/1,5,0,0
+1712174139538,5,Delete user,200,OK,HTTP managers 1-55,text,true,,249,178,27,27,http://localhost:3001/character/id,5,0,0
+1712174139528,18,Get character id,200,OK,HTTP managers 1-59,text,true,,192,156,26,26,http://localhost:3001/character/id,18,0,0
+1712174139533,13,Get character id,200,OK,HTTP managers 1-60,text,true,,192,156,26,26,http://localhost:3001/character/id,13,0,0
+1712174139532,15,Delete user,200,OK,HTTP managers 1-56,text,true,,249,178,26,26,http://localhost:3001/character/id,15,0,0
+1712174139532,16,Create user,200,OK,HTTP managers 1-58,text,true,,264,217,25,25,http://localhost:3001/character,16,0,0
+1712174139347,201,Get all characters,200,OK,HTTP managers 1-62,text,true,,417,154,25,25,http://localhost:3001/characters,201,0,2
+1712174139542,8,Delete user,200,OK,HTTP managers 1-57,text,true,,249,178,25,25,http://localhost:3001/character/id,8,0,0
+1712174139546,5,Create user,200,OK,HTTP managers 1-59,text,true,,264,217,24,24,http://localhost:3001/character,5,0,0
+1712174139546,6,Create user,200,OK,HTTP managers 1-60,text,true,,264,217,24,24,http://localhost:3001/character,6,0,0
+1712174139540,12,Get character id,200,OK,HTTP managers 1-61,text,true,,192,156,24,24,http://localhost:3001/character/id,12,0,0
+1712174139356,197,Get all characters,200,OK,HTTP managers 1-63,text,true,,447,154,24,24,http://localhost:3001/characters,197,0,2
+1712174139552,3,Change user,200,OK,HTTP managers 1-59,text,true,,264,216,24,24,http://localhost:3001/character/1,3,0,0
+1712174139552,4,Change user,200,OK,HTTP managers 1-60,text,true,,264,216,24,24,http://localhost:3001/character/1,3,0,0
+1712174139553,5,Create user,200,OK,HTTP managers 1-61,text,true,,264,217,25,25,http://localhost:3001/character,5,0,0
+1712174139549,11,Get character id,200,OK,HTTP managers 1-62,text,true,,192,156,25,25,http://localhost:3001/character/id,11,0,0
+1712174139548,12,Change user,200,OK,HTTP managers 1-58,text,true,,264,216,25,25,http://localhost:3001/character/1,12,0,0
+1712174139364,198,Get all characters,200,OK,HTTP managers 1-64,text,true,,477,154,25,25,http://localhost:3001/characters,198,0,1
+1712174139555,8,Delete user,200,OK,HTTP managers 1-59,text,true,,249,178,25,25,http://localhost:3001/character/id,8,0,0
+1712174139556,9,Delete user,200,OK,HTTP managers 1-60,text,true,,249,178,24,24,http://localhost:3001/character/id,8,0,0
+1712174139559,7,Change user,200,OK,HTTP managers 1-61,text,true,,264,216,23,23,http://localhost:3001/character/1,6,0,0
+1712174139554,14,Get character id,200,OK,HTTP managers 1-63,text,true,,192,156,24,24,http://localhost:3001/character/id,14,0,0
+1712174139377,192,Get all characters,200,OK,HTTP managers 1-65,text,true,,417,154,24,24,http://localhost:3001/characters,192,0,1
+1712174139561,8,Delete user,200,OK,HTTP managers 1-58,text,true,,249,178,24,24,http://localhost:3001/character/id,8,0,0
+1712174139561,11,Create user,200,OK,HTTP managers 1-62,text,true,,264,217,23,23,http://localhost:3001/character,11,0,0
+1712174139563,10,Get character id,200,OK,HTTP managers 1-64,text,true,,192,156,23,23,http://localhost:3001/character/id,10,0,0
+1712174139386,188,Get all characters,200,OK,HTTP managers 1-66,text,true,,417,154,24,24,http://localhost:3001/characters,188,0,2
+1712174139573,6,Change user,200,OK,HTTP managers 1-62,text,true,,264,216,24,24,http://localhost:3001/character/1,6,0,0
+1712174139566,14,Delete user,200,OK,HTTP managers 1-61,text,true,,249,178,24,24,http://localhost:3001/character/id,14,0,0
+1712174139570,11,Get character id,200,OK,HTTP managers 1-65,text,true,,192,156,24,24,http://localhost:3001/character/id,11,0,0
+1712174139569,14,Create user,200,OK,HTTP managers 1-63,text,true,,264,217,23,23,http://localhost:3001/character,14,0,0
+1712174139397,190,Get all characters,200,OK,HTTP managers 1-67,text,true,,417,154,24,24,http://localhost:3001/characters,190,0,2
+1712174139580,9,Delete user,200,OK,HTTP managers 1-62,text,true,,249,178,24,24,http://localhost:3001/character/id,9,0,0
+1712174139582,8,Create user,200,OK,HTTP managers 1-65,text,true,,264,217,23,23,http://localhost:3001/character,8,0,0
+1712174139583,8,Change user,200,OK,HTTP managers 1-63,text,true,,264,216,23,23,http://localhost:3001/character/1,8,0,0
+1712174139575,17,Get character id,200,OK,HTTP managers 1-66,text,true,,192,156,23,23,http://localhost:3001/character/id,17,0,0
+1712174139573,21,Create user,200,OK,HTTP managers 1-64,text,true,,264,217,23,23,http://localhost:3001/character,21,0,0
+1712174139404,191,Get all characters,200,OK,HTTP managers 1-68,text,true,,447,154,23,23,http://localhost:3001/characters,191,0,2
+1712174139591,6,Change user,200,OK,HTTP managers 1-65,text,true,,264,216,24,24,http://localhost:3001/character/1,6,0,0
+1712174139592,7,Delete user,200,OK,HTTP managers 1-63,text,true,,249,178,24,24,http://localhost:3001/character/id,7,0,0
+1712174139592,8,Create user,200,OK,HTTP managers 1-66,text,true,,264,217,23,23,http://localhost:3001/character,8,0,0
+1712174139588,13,Get character id,200,OK,HTTP managers 1-67,text,true,,192,156,23,23,http://localhost:3001/character/id,13,0,0
+1712174139419,183,Get all characters,200,OK,HTTP managers 1-69,text,true,,447,154,23,23,http://localhost:3001/characters,183,0,1
+1712174139598,5,Delete user,200,OK,HTTP managers 1-65,text,true,,249,178,23,23,http://localhost:3001/character/id,5,0,0
+1712174139595,10,Get character id,200,OK,HTTP managers 1-68,text,true,,192,156,24,24,http://localhost:3001/character/id,10,0,0
+1712174139594,11,Change user,200,OK,HTTP managers 1-64,text,true,,264,216,24,24,http://localhost:3001/character/1,11,0,0
+1712174139425,183,Get all characters,200,OK,HTTP managers 1-70,text,true,,417,154,24,24,http://localhost:3001/characters,183,0,2
+1712174139601,9,Change user,200,OK,HTTP managers 1-66,text,true,,264,216,24,24,http://localhost:3001/character/1,9,0,0
+1712174139601,10,Create user,200,OK,HTTP managers 1-67,text,true,,264,217,24,24,http://localhost:3001/character,10,0,0
+1712174139602,10,Get character id,200,OK,HTTP managers 1-69,text,true,,192,156,24,24,http://localhost:3001/character/id,10,0,0
+1712174139436,176,Get all characters,200,OK,HTTP managers 1-71,text,true,,447,154,24,24,http://localhost:3001/characters,176,0,2
+1712174139611,3,Delete user,200,OK,HTTP managers 1-66,text,true,,249,178,24,24,http://localhost:3001/character/id,3,0,0
+1712174139605,10,Delete user,200,OK,HTTP managers 1-64,text,true,,249,178,23,23,http://localhost:3001/character/id,10,0,0
+1712174139605,11,Create user,200,OK,HTTP managers 1-68,text,true,,264,217,22,22,http://localhost:3001/character,11,0,0
+1712174139609,8,Get character id,200,OK,HTTP managers 1-70,text,true,,192,156,22,22,http://localhost:3001/character/id,8,0,0
+1712174139453,165,Get all characters,200,OK,HTTP managers 1-72,text,true,,417,154,22,22,http://localhost:3001/characters,165,0,2
+1712174139616,4,Change user,200,OK,HTTP managers 1-68,text,true,,264,216,22,22,http://localhost:3001/character/1,4,0,0
+1712174139612,9,Create user,200,OK,HTTP managers 1-69,text,true,,264,217,23,23,http://localhost:3001/character,9,0,0
+1712174139612,11,Change user,200,OK,HTTP managers 1-67,text,true,,264,216,23,23,http://localhost:3001/character/1,11,0,0
+1712174139613,11,Get character id,200,OK,HTTP managers 1-71,text,true,,192,156,23,23,http://localhost:3001/character/id,11,0,0
+1712174139458,167,Get all characters,200,OK,HTTP managers 1-73,text,true,,447,154,23,23,http://localhost:3001/characters,167,0,2
+1712174139620,8,Delete user,200,OK,HTTP managers 1-68,text,true,,249,178,23,23,http://localhost:3001/character/id,8,0,0
+1712174139621,11,Change user,200,OK,HTTP managers 1-69,text,true,,264,216,23,23,http://localhost:3001/character/1,11,0,0
+1712174139617,16,Create user,200,OK,HTTP managers 1-70,text,true,,264,217,23,23,http://localhost:3001/character,16,0,0
+1712174139619,15,Get character id,200,OK,HTTP managers 1-72,text,true,,192,156,23,23,http://localhost:3001/character/id,15,0,0
+1712174139466,169,Get all characters,200,OK,HTTP managers 1-74,text,true,,447,154,23,23,http://localhost:3001/characters,169,0,2
+1712174139632,5,Delete user,200,OK,HTTP managers 1-69,text,true,,249,178,23,23,http://localhost:3001/character/id,5,0,0
+1712174139624,13,Delete user,200,OK,HTTP managers 1-67,text,true,,249,178,23,23,http://localhost:3001/character/id,13,0,0
+1712174139624,15,Create user,200,OK,HTTP managers 1-71,text,true,,264,217,21,21,http://localhost:3001/character,15,0,0
+1712174139626,13,Get character id,200,OK,HTTP managers 1-73,text,true,,192,156,21,21,http://localhost:3001/character/id,13,0,0
+1712174139476,164,Get all characters,200,OK,HTTP managers 1-75,text,true,,417,154,21,21,http://localhost:3001/characters,164,0,2
+1712174139639,4,Change user,200,OK,HTTP managers 1-71,text,true,,264,216,22,22,http://localhost:3001/character/1,3,0,0
+1712174139634,10,Change user,200,OK,HTTP managers 1-70,text,true,,264,216,23,23,http://localhost:3001/character/1,10,0,0
+1712174139634,11,Create user,200,OK,HTTP managers 1-72,text,true,,264,217,23,23,http://localhost:3001/character,11,0,0
+1712174139635,11,Get character id,200,OK,HTTP managers 1-74,text,true,,192,156,23,23,http://localhost:3001/character/id,11,0,0
+1712174139488,159,Get all characters,200,OK,HTTP managers 1-76,text,true,,447,154,23,23,http://localhost:3001/characters,159,0,1
+1712174139643,7,Delete user,200,OK,HTTP managers 1-71,text,true,,249,178,23,23,http://localhost:3001/character/id,7,0,0
+1712174139645,6,Delete user,200,OK,HTTP managers 1-70,text,true,,249,178,22,22,http://localhost:3001/character/id,6,0,0
+1712174139646,5,Change user,200,OK,HTTP managers 1-72,text,true,,264,216,21,21,http://localhost:3001/character/1,5,0,0
+1712174139646,7,Create user,200,OK,HTTP managers 1-74,text,true,,264,217,21,21,http://localhost:3001/character,6,0,0
+1712174139648,5,Get character id,200,OK,HTTP managers 1-76,text,true,,192,156,21,21,http://localhost:3001/character/id,5,0,0
+1712174139640,14,Create user,200,OK,HTTP managers 1-73,text,true,,264,217,21,21,http://localhost:3001/character,14,0,0
+1712174139641,13,Get character id,200,OK,HTTP managers 1-75,text,true,,192,156,21,21,http://localhost:3001/character/id,13,0,0
+1712174139496,159,Get all characters,200,OK,HTTP managers 1-77,text,true,,447,154,21,21,http://localhost:3001/characters,159,0,2
+1712174139652,5,Delete user,200,OK,HTTP managers 1-72,text,true,,249,178,21,21,http://localhost:3001/character/id,5,0,0
+1712174139653,5,Change user,200,OK,HTTP managers 1-74,text,true,,264,216,20,20,http://localhost:3001/character/1,5,0,0
+1712174139653,6,Create user,200,OK,HTTP managers 1-76,text,true,,264,217,20,20,http://localhost:3001/character,6,0,0
+1712174139520,140,Get all characters,200,OK,HTTP managers 1-78,text,true,,447,154,20,20,http://localhost:3001/characters,140,0,2
+1712174139658,4,Delete user,200,OK,HTTP managers 1-74,text,true,,249,178,21,21,http://localhost:3001/character/id,4,0,0
+1712174139654,12,Change user,200,OK,HTTP managers 1-73,text,true,,264,216,20,20,http://localhost:3001/character/1,12,0,0
+1712174139655,11,Create user,200,OK,HTTP managers 1-75,text,true,,264,217,20,20,http://localhost:3001/character,11,0,0
+1712174139656,12,Get character id,200,OK,HTTP managers 1-77,text,true,,192,156,20,20,http://localhost:3001/character/id,12,0,0
+1712174139531,148,Get all characters,200,OK,HTTP managers 1-79,text,true,,447,154,22,22,http://localhost:3001/characters,148,0,1
+1712174139667,15,Delete user,200,OK,HTTP managers 1-73,text,true,,249,178,22,22,http://localhost:3001/character/id,15,0,0
+1712174139667,15,Change user,200,OK,HTTP managers 1-75,text,true,,264,216,22,22,http://localhost:3001/character/1,15,0,0
+1712174139668,15,Create user,200,OK,HTTP managers 1-77,text,true,,264,217,21,21,http://localhost:3001/character,15,0,0
+1712174139660,25,Change user,200,OK,HTTP managers 1-76,text,true,,264,216,21,21,http://localhost:3001/character/1,25,0,0
+1712174139661,26,Get character id,200,OK,HTTP managers 1-78,text,true,,192,156,21,21,http://localhost:3001/character/id,26,0,0
+1712174139532,156,Get all characters,200,OK,HTTP managers 1-80,text,true,,447,154,21,21,http://localhost:3001/characters,156,0,2
+1712174139682,7,Delete user,200,OK,HTTP managers 1-75,text,true,,249,178,21,21,http://localhost:3001/character/id,7,0,0
+1712174139684,15,Change user,200,OK,HTTP managers 1-77,text,true,,264,216,22,22,http://localhost:3001/character/1,15,0,0
+1712174139539,162,Get all characters,200,OK,HTTP managers 1-81,text,true,,417,154,22,22,http://localhost:3001/characters,162,0,2
+1712174139680,21,Get character id,200,OK,HTTP managers 1-79,text,true,,192,156,22,22,http://localhost:3001/character/id,21,0,0
+1712174139685,19,Delete user,200,OK,HTTP managers 1-76,text,true,,249,178,22,22,http://localhost:3001/character/id,19,0,0
+1712174139688,17,Create user,200,OK,HTTP managers 1-78,text,true,,264,217,22,22,http://localhost:3001/character,17,0,0
+1712174139689,16,Get character id,200,OK,HTTP managers 1-80,text,true,,192,156,23,23,http://localhost:3001/character/id,16,0,0
+1712174139559,148,Get all characters,200,OK,HTTP managers 1-82,text,true,,417,154,22,22,http://localhost:3001/characters,148,0,2
+1712174139700,9,Delete user,200,OK,HTTP managers 1-77,text,true,,249,178,22,22,http://localhost:3001/character/id,9,0,0
+1712174139702,10,Create user,200,OK,HTTP managers 1-79,text,true,,264,217,21,21,http://localhost:3001/character,10,0,0
+1712174139702,10,Get character id,200,OK,HTTP managers 1-81,text,true,,192,156,21,21,http://localhost:3001/character/id,10,0,0
+1712174139568,145,Get all characters,200,OK,HTTP managers 1-83,text,true,,417,154,21,21,http://localhost:3001/characters,145,0,2
+1712174139705,10,Change user,200,OK,HTTP managers 1-78,text,true,,264,216,22,22,http://localhost:3001/character/1,10,0,0
+1712174139705,10,Create user,200,OK,HTTP managers 1-80,text,true,,264,217,22,22,http://localhost:3001/character,10,0,0
+1712174139708,9,Get character id,200,OK,HTTP managers 1-82,text,true,,192,156,22,22,http://localhost:3001/character/id,9,0,0
+1712174139574,144,Get all characters,200,OK,HTTP managers 1-84,text,true,,447,154,22,22,http://localhost:3001/characters,144,0,1
+1712174139715,4,Delete user,200,OK,HTTP managers 1-78,text,true,,249,178,22,22,http://localhost:3001/character/id,4,0,0
+1712174139716,4,Change user,200,OK,HTTP managers 1-80,text,true,,264,216,22,22,http://localhost:3001/character/1,4,0,0
+1712174139712,9,Change user,200,OK,HTTP managers 1-79,text,true,,264,216,21,21,http://localhost:3001/character/1,9,0,0
+1712174139712,10,Create user,200,OK,HTTP managers 1-81,text,true,,264,217,21,21,http://localhost:3001/character,10,0,0
+1712174139713,10,Get character id,200,OK,HTTP managers 1-83,text,true,,192,156,21,21,http://localhost:3001/character/id,10,0,0
+1712174139584,140,Get all characters,200,OK,HTTP managers 1-85,text,true,,447,154,22,22,http://localhost:3001/characters,140,0,1
+1712174139721,5,Delete user,200,OK,HTTP managers 1-80,text,true,,249,178,22,22,http://localhost:3001/character/id,5,0,0
+1712174139722,6,Delete user,200,OK,HTTP managers 1-79,text,true,,249,178,21,21,http://localhost:3001/character/id,6,0,0
+1712174139717,13,Create user,200,OK,HTTP managers 1-82,text,true,,264,217,20,20,http://localhost:3001/character,13,0,0
+1712174139718,12,Get character id,200,OK,HTTP managers 1-84,text,true,,192,156,20,20,http://localhost:3001/character/id,12,0,0
+1712174139596,135,Get all characters,200,OK,HTTP managers 1-86,text,true,,417,154,20,20,http://localhost:3001/characters,135,0,1
+1712174139723,9,Change user,200,OK,HTTP managers 1-81,text,true,,264,216,20,20,http://localhost:3001/character/1,9,0,0
+1712174139723,10,Create user,200,OK,HTTP managers 1-83,text,true,,264,217,20,20,http://localhost:3001/character,10,0,0
+1712174139724,9,Get character id,200,OK,HTTP managers 1-85,text,true,,192,156,20,20,http://localhost:3001/character/id,9,0,0
+1712174139605,129,Get all characters,200,OK,HTTP managers 1-87,text,true,,447,154,20,20,http://localhost:3001/characters,129,0,1
+1712174139733,2,Delete user,200,OK,HTTP managers 1-81,text,true,,249,178,20,20,http://localhost:3001/character/id,2,0,0
+1712174139731,5,Create user,200,OK,HTTP managers 1-84,text,true,,264,217,20,20,http://localhost:3001/character,5,0,0
+1712174139731,7,Change user,200,OK,HTTP managers 1-82,text,true,,264,216,19,19,http://localhost:3001/character/1,7,0,0
+1712174139732,6,Get character id,200,OK,HTTP managers 1-86,text,true,,192,156,19,19,http://localhost:3001/character/id,6,0,0
+1712174139606,133,Get all characters,200,OK,HTTP managers 1-88,text,true,,447,154,19,19,http://localhost:3001/characters,133,0,3
+1712174139737,4,Change user,200,OK,HTTP managers 1-84,text,true,,264,216,19,19,http://localhost:3001/character/1,4,0,0
+1712174139738,4,Delete user,200,OK,HTTP managers 1-82,text,true,,249,178,19,19,http://localhost:3001/character/id,4,0,0
+1712174139734,8,Create user,200,OK,HTTP managers 1-85,text,true,,264,217,19,19,http://localhost:3001/character,8,0,0
+1712174139733,10,Change user,200,OK,HTTP managers 1-83,text,true,,264,216,18,18,http://localhost:3001/character/1,10,0,0
+1712174139734,10,Get character id,200,OK,HTTP managers 1-87,text,true,,192,156,18,18,http://localhost:3001/character/id,10,0,0
+1712174139621,123,Get all characters,200,OK,HTTP managers 1-89,text,true,,447,154,18,18,http://localhost:3001/characters,123,0,2
+1712174139741,5,Delete user,200,OK,HTTP managers 1-84,text,true,,249,178,18,18,http://localhost:3001/character/id,5,0,0
+1712174139743,4,Change user,200,OK,HTTP managers 1-85,text,true,,264,216,17,17,http://localhost:3001/character/1,4,0,0
+1712174139739,9,Create user,200,OK,HTTP managers 1-86,text,true,,264,217,17,17,http://localhost:3001/character,9,0,0
+1712174139740,8,Get character id,200,OK,HTTP managers 1-88,text,true,,192,156,17,17,http://localhost:3001/character/id,8,0,0
+1712174139631,119,Get all characters,200,OK,HTTP managers 1-90,text,true,,447,154,17,17,http://localhost:3001/characters,119,0,2
+1712174139748,3,Delete user,200,OK,HTTP managers 1-85,text,true,,249,178,17,17,http://localhost:3001/character/id,3,0,0
+1712174139748,4,Change user,200,OK,HTTP managers 1-86,text,true,,264,216,16,16,http://localhost:3001/character/1,4,0,0
+1712174139749,4,Create user,200,OK,HTTP managers 1-88,text,true,,264,217,16,16,http://localhost:3001/character,4,0,0
+1712174139744,10,Delete user,200,OK,HTTP managers 1-83,text,true,,249,178,16,16,http://localhost:3001/character/id,10,0,0
+1712174139744,11,Create user,200,OK,HTTP managers 1-87,text,true,,264,217,15,15,http://localhost:3001/character,11,0,0
+1712174139745,11,Get character id,200,OK,HTTP managers 1-89,text,true,,192,156,15,15,http://localhost:3001/character/id,11,0,0
+1712174139642,115,Get all characters,200,OK,HTTP managers 1-91,text,true,,447,154,15,15,http://localhost:3001/characters,115,0,1
+1712174139752,7,Delete user,200,OK,HTTP managers 1-86,text,true,,249,178,15,15,http://localhost:3001/character/id,7,0,0
+1712174139753,7,Change user,200,OK,HTTP managers 1-88,text,true,,264,216,14,14,http://localhost:3001/character/1,7,0,0
+1712174139755,6,Change user,200,OK,HTTP managers 1-87,text,true,,264,216,14,14,http://localhost:3001/character/1,6,0,0
+1712174139756,6,Create user,200,OK,HTTP managers 1-89,text,true,,264,217,14,14,http://localhost:3001/character,6,0,0
+1712174139750,12,Get character id,200,OK,HTTP managers 1-90,text,true,,192,156,14,14,http://localhost:3001/character/id,12,0,0
+1712174139645,118,Get all characters,200,OK,HTTP managers 1-92,text,true,,447,154,14,14,http://localhost:3001/characters,118,0,2
+1712174139761,4,Delete user,200,OK,HTTP managers 1-88,text,true,,249,178,14,14,http://localhost:3001/character/id,3,0,0
+1712174139761,4,Delete user,200,OK,HTTP managers 1-87,text,true,,249,178,14,14,http://localhost:3001/character/id,4,0,0
+1712174139758,7,Get character id,200,OK,HTTP managers 1-91,text,true,,192,156,13,13,http://localhost:3001/character/id,7,0,0
+1712174139662,104,Get all characters,200,OK,HTTP managers 1-93,text,true,,387,154,12,12,http://localhost:3001/characters,104,0,2
+1712174139763,5,Create user,200,OK,HTTP managers 1-90,text,true,,264,217,12,12,http://localhost:3001/character,5,0,0
+1712174139762,6,Change user,200,OK,HTTP managers 1-89,text,true,,264,216,12,12,http://localhost:3001/character/1,6,0,0
+1712174139764,4,Get character id,200,OK,HTTP managers 1-92,text,true,,192,156,12,12,http://localhost:3001/character/id,4,0,0
+1712174139671,98,Get all characters,200,OK,HTTP managers 1-94,text,true,,417,154,12,12,http://localhost:3001/characters,98,0,1
+1712174139768,3,Change user,200,OK,HTTP managers 1-90,text,true,,264,216,12,12,http://localhost:3001/character/1,3,0,0
+1712174139769,3,Create user,200,OK,HTTP managers 1-92,text,true,,264,217,12,12,http://localhost:3001/character,3,0,0
+1712174139766,7,Create user,200,OK,HTTP managers 1-91,text,true,,264,217,12,12,http://localhost:3001/character,7,0,0
+1712174139767,6,Get character id,200,OK,HTTP managers 1-93,text,true,,192,156,12,12,http://localhost:3001/character/id,6,0,0
+1712174139677,97,Get all characters,200,OK,HTTP managers 1-95,text,true,,477,154,12,12,http://localhost:3001/characters,97,0,2
+1712174139769,6,Delete user,200,OK,HTTP managers 1-89,text,true,,249,178,12,12,http://localhost:3001/character/id,6,0,0
+1712174139771,5,Delete user,200,OK,HTTP managers 1-90,text,true,,249,178,11,11,http://localhost:3001/character/id,5,0,0
+1712174139772,6,Change user,200,OK,HTTP managers 1-92,text,true,,264,216,10,10,http://localhost:3001/character/1,6,0,0
+1712174139770,8,Get character id,200,OK,HTTP managers 1-94,text,true,,192,156,10,10,http://localhost:3001/character/id,8,0,0
+1712174139692,87,Get all characters,200,OK,HTTP managers 1-96,text,true,,417,154,10,10,http://localhost:3001/characters,87,0,3
+1712174139773,7,Change user,200,OK,HTTP managers 1-91,text,true,,264,216,10,10,http://localhost:3001/character/1,7,0,0
+1712174139773,8,Create user,200,OK,HTTP managers 1-93,text,true,,264,217,10,10,http://localhost:3001/character,8,0,0
+1712174139774,7,Get character id,200,OK,HTTP managers 1-95,text,true,,192,156,10,10,http://localhost:3001/character/id,7,0,0
+1712174139696,86,Get all characters,200,OK,HTTP managers 1-97,text,true,,447,154,10,10,http://localhost:3001/characters,86,0,1
+1712174139780,3,Delete user,200,OK,HTTP managers 1-91,text,true,,249,178,10,10,http://localhost:3001/character/id,3,0,0
+1712174139778,6,Delete user,200,OK,HTTP managers 1-92,text,true,,249,178,9,9,http://localhost:3001/character/id,6,0,0
+1712174139779,6,Create user,200,OK,HTTP managers 1-94,text,true,,264,217,8,8,http://localhost:3001/character,6,0,0
+1712174139779,8,Get character id,200,OK,HTTP managers 1-96,text,true,,192,156,8,8,http://localhost:3001/character/id,8,0,0
+1712174139708,80,Get all characters,200,OK,HTTP managers 1-98,text,true,,417,154,8,8,http://localhost:3001/characters,80,0,2
+1712174139786,4,Change user,200,OK,HTTP managers 1-94,text,true,,264,216,8,8,http://localhost:3001/character/1,4,0,0
+1712174139781,10,Change user,200,OK,HTTP managers 1-93,text,true,,264,216,8,8,http://localhost:3001/character/1,10,0,0
+1712174139781,11,Create user,200,OK,HTTP managers 1-95,text,true,,264,217,8,8,http://localhost:3001/character,11,0,0
+1712174139782,10,Get character id,200,OK,HTTP managers 1-97,text,true,,192,156,8,8,http://localhost:3001/character/id,10,0,0
+1712174139714,79,Get all characters,200,OK,HTTP managers 1-99,text,true,,447,154,8,8,http://localhost:3001/characters,79,0,1
+1712174139790,5,Delete user,200,OK,HTTP managers 1-94,text,true,,249,178,8,8,http://localhost:3001/character/id,5,0,0
+1712174139791,5,Delete user,200,OK,HTTP managers 1-93,text,true,,249,178,8,8,http://localhost:3001/character/id,5,0,0
+1712174139792,5,Change user,200,OK,HTTP managers 1-95,text,true,,264,216,6,6,http://localhost:3001/character/1,5,0,0
+1712174139792,7,Create user,200,OK,HTTP managers 1-97,text,true,,264,217,6,6,http://localhost:3001/character,7,0,0
+1712174139788,12,Create user,200,OK,HTTP managers 1-96,text,true,,264,217,6,6,http://localhost:3001/character,12,0,0
+1712174139789,11,Get character id,200,OK,HTTP managers 1-98,text,true,,192,156,6,6,http://localhost:3001/character/id,11,0,0
+1712174139724,77,Get all characters,200,OK,HTTP managers 1-100,text,true,,447,154,6,6,http://localhost:3001/characters,77,0,2
+1712174139798,4,Delete user,200,OK,HTTP managers 1-95,text,true,,249,178,6,6,http://localhost:3001/character/id,4,0,0
+1712174139799,5,Change user,200,OK,HTTP managers 1-97,text,true,,264,216,5,5,http://localhost:3001/character/1,5,0,0
+1712174139794,10,Get character id,200,OK,HTTP managers 1-99,text,true,,192,156,5,5,http://localhost:3001/character/id,10,0,0
+1712174139801,5,Create user,200,OK,HTTP managers 1-98,text,true,,264,217,5,5,http://localhost:3001/character,5,0,0
+1712174139800,7,Change user,200,OK,HTTP managers 1-96,text,true,,264,216,5,5,http://localhost:3001/character/1,7,0,0
+1712174139802,5,Get character id,200,OK,HTTP managers 1-100,text,true,,192,156,5,5,http://localhost:3001/character/id,5,0,0
+1712174139804,4,Delete user,200,OK,HTTP managers 1-97,text,true,,249,178,5,5,http://localhost:3001/character/id,4,0,0
+1712174139805,4,Create user,200,OK,HTTP managers 1-99,text,true,,264,217,4,4,http://localhost:3001/character,4,0,0
+1712174139806,4,Change user,200,OK,HTTP managers 1-98,text,true,,264,216,4,4,http://localhost:3001/character/1,4,0,0
+1712174139807,4,Delete user,200,OK,HTTP managers 1-96,text,true,,249,178,4,4,http://localhost:3001/character/id,4,0,0
+1712174139807,5,Create user,200,OK,HTTP managers 1-100,text,true,,264,217,3,3,http://localhost:3001/character,5,0,0
+1712174139810,4,Change user,200,OK,HTTP managers 1-99,text,true,,264,216,3,3,http://localhost:3001/character/1,4,0,0
+1712174139811,5,Delete user,200,OK,HTTP managers 1-98,text,true,,249,178,3,3,http://localhost:3001/character/id,5,0,0
+1712174139813,5,Change user,200,OK,HTTP managers 1-100,text,true,,264,216,2,2,http://localhost:3001/character/1,5,0,0
+1712174139814,5,Delete user,200,OK,HTTP managers 1-99,text,true,,249,178,2,2,http://localhost:3001/character/id,5,0,0
+1712174139819,2,Delete user,200,OK,HTTP managers 1-100,text,true,,249,178,1,1,http://localhost:3001/character/id,2,0,0
